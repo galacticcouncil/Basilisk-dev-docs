@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["AMMTransfer","Hold information to perform amm transfer Contains also exact amount which will be sold/bought"]],"trait":[["AMM","Traits for handling AMM Pool trades."],["AMMHandlers","AMM handlers used by AMM pools to indicate various events."],["AssetPairAccountIdFor",""],["Resolver",""]]});

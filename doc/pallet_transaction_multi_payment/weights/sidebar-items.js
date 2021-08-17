@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["HydraWeight","Weights for transaction_multi_payment using the hydraDX node and recommended hardware."]],"trait":[["WeightInfo","Weight functions needed for transaction_multi_payment."]]});

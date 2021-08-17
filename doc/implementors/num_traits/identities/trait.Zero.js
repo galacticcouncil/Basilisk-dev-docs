@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["pallet_price_oracle"] = [{"text":"impl <a class=\"trait\" href=\"https://docs.rs/num-traits/0.2/num_traits/identities/trait.Zero.html\" title=\"trait num_traits::identities::Zero\">Zero</a> for <a class=\"struct\" href=\"pallet_price_oracle/struct.PriceEntry.html\" title=\"struct pallet_price_oracle::PriceEntry\">PriceEntry</a>","synthetic":false,"types":["pallet_price_oracle::types::PriceEntry"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

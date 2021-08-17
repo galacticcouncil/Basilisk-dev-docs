@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["basilisk_runtime"] = [{"text":"impl GetByKey&lt;<a class=\"primitive\" href=\"https://doc.rust-lang.org/nightly/std/primitive.u32.html\">u32</a>, <a class=\"primitive\" href=\"https://doc.rust-lang.org/nightly/std/primitive.u128.html\">u128</a>&gt; for <a class=\"struct\" href=\"basilisk_runtime/struct.ExistentialDeposits.html\" title=\"struct basilisk_runtime::ExistentialDeposits\">ExistentialDeposits</a>","synthetic":false,"types":["basilisk_runtime::ExistentialDeposits"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

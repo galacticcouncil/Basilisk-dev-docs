@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["CENTS",""],["DOLLARS",""],["MILLICENTS",""]],"struct":[["Pallet",""]],"trait":[["Config",""]]});

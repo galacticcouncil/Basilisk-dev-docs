@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["basilisk_runtime"] = [{"text":"impl <a class=\"trait\" href=\"basilisk_runtime/trait.Filter.html\" title=\"trait basilisk_runtime::Filter\">Filter</a>&lt;<a class=\"enum\" href=\"basilisk_runtime/enum.Call.html\" title=\"enum basilisk_runtime::Call\">Call</a>&gt; for <a class=\"struct\" href=\"basilisk_runtime/struct.BaseFilter.html\" title=\"struct basilisk_runtime::BaseFilter\">BaseFilter</a>","synthetic":false,"types":["basilisk_runtime::BaseFilter"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BasiliskWeight","Weights for pallet_nft using the Basilisk node and recommended hardware."]],"trait":[["WeightInfo","Weight functions needed for pallet_nft."]]});

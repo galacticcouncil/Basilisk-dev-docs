@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error",""]],"mod":[["gen_client","The generated client module."]],"struct":[["BalanceRequest",""],["XYK","A struct that implements the [`XYKApi`]."],["XYKClient","The Client."]],"trait":[["XYKApi",""],["XYKRuntimeApi",""]]});

@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["basilisk_runtime"] = [{"text":"impl <a class=\"trait\" href=\"basilisk_runtime/trait.BuildStorage.html\" title=\"trait basilisk_runtime::BuildStorage\">BuildStorage</a> for <a class=\"struct\" href=\"basilisk_runtime/struct.GenesisConfig.html\" title=\"struct basilisk_runtime::GenesisConfig\">GenesisConfig</a>","synthetic":false,"types":["basilisk_runtime::GenesisConfig"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

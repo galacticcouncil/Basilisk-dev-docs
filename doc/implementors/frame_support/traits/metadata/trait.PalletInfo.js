@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["basilisk_runtime"] = [{"text":"impl PalletInfo for <a class=\"struct\" href=\"basilisk_runtime/struct.PalletInfo.html\" title=\"struct basilisk_runtime::PalletInfo\">PalletInfo</a>","synthetic":false,"types":["basilisk_runtime::PalletInfo"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

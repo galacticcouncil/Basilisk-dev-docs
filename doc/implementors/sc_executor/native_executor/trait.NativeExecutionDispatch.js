@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["basilisk"] = [{"text":"impl NativeExecutionDispatch for <a class=\"struct\" href=\"basilisk/service/struct.Executor.html\" title=\"struct basilisk::service::Executor\">Executor</a>","synthetic":false,"types":["basilisk::service::Executor"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

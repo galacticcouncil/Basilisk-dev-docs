@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["pallet_xyk_rpc_runtime_api"] = [{"text":"impl&lt;Block:&nbsp;BlockT, AccountId, AssetId, Balance&gt; RuntimeApiInfo for dyn <a class=\"trait\" href=\"pallet_xyk_rpc_runtime_api/trait.XYKApi.html\" title=\"trait pallet_xyk_rpc_runtime_api::XYKApi\">XYKApi</a>&lt;Block, AccountId, AssetId, Balance&gt;","synthetic":false,"types":["pallet_xyk_rpc_runtime_api::XYKApi"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,3 +1,3 @@
 (function() {var implementors = {};
-implementors["pallet_price_oracle"] = [];
+implementors["pallet_lbp"] = [];
 if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,3 +1,0 @@
-(function() {var implementors = {};
-implementors["pallet_price_oracle"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/ops/index/trait.Index.html\" title=\"trait core::ops::index::Index\">Index</a>&lt;<a class=\"primitive\" href=\"https://doc.rust-lang.org/nightly/std/primitive.usize.html\">usize</a>&gt; for <a class=\"struct\" href=\"pallet_price_oracle/struct.BucketQueue.html\" title=\"struct pallet_price_oracle::BucketQueue\">BucketQueue</a>","synthetic":false,"types":["pallet_price_oracle::types::BucketQueue"]}];
-if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

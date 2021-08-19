@@ -1,6 +1,6 @@
 var N = null;var sourcesIndex = {};
 sourcesIndex["basilisk"] = {"name":"","files":["chain_spec.rs","lib.rs","rpc.rs","service.rs"]};
-sourcesIndex["basilisk_runtime"] = {"name":"","dirs":[{"name":"weights","files":["exchange.rs","mod.rs","payment.rs","price_oracle.rs","system.rs","timestamp.rs","xyk.rs"]}],"files":["currency.rs","lib.rs","xcm.rs"]};
+sourcesIndex["basilisk_runtime"] = {"name":"","dirs":[{"name":"weights","files":["exchange.rs","mod.rs","payment.rs","system.rs","timestamp.rs","xyk.rs"]}],"files":["currency.rs","lib.rs","xcm.rs"]};
 sourcesIndex["pallet_asset_registry"] = {"name":"","files":["lib.rs"]};
 sourcesIndex["pallet_duster"] = {"name":"","files":["lib.rs","weights.rs"]};
 sourcesIndex["pallet_exchange"] = {"name":"","files":["direct.rs","lib.rs","weights.rs"]};
@@ -8,7 +8,6 @@ sourcesIndex["pallet_exchange_benchmarking"] = {"name":"","files":["amounts.rs",
 sourcesIndex["pallet_lbp"] = {"name":"","files":["lib.rs","weights.rs"]};
 sourcesIndex["pallet_multi_payment_benchmarking"] = {"name":"","files":["lib.rs"]};
 sourcesIndex["pallet_nft"] = {"name":"","files":["lib.rs","weights.rs"]};
-sourcesIndex["pallet_price_oracle"] = {"name":"","files":["lib.rs","types.rs","weights.rs"]};
 sourcesIndex["pallet_transaction_multi_payment"] = {"name":"","files":["lib.rs","traits.rs","weights.rs"]};
 sourcesIndex["pallet_xyk"] = {"name":"","files":["lib.rs","weights.rs"]};
 sourcesIndex["pallet_xyk_rpc"] = {"name":"","files":["lib.rs"]};

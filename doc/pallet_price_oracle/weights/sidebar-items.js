@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["HydraWeight","Weights for pallet_price_oracle using the hack.hydraDX node and recommended hardware."]],"trait":[["WeightInfo","Weight functions needed for pallet_price_oracle."]]});
